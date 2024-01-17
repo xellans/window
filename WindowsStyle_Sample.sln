@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WindowsStyle_Sample", "WindowsStyle_Sample\WindowsStyle_Sample.csproj", "{2E2E9FF1-7ABD-4701-8282-345708291138}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinStyles", "WinStyles\WinStyles.csproj", "{A11CCA15-D78B-4FC0-897A-FD66AB84F317}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E2E9FF1-7ABD-4701-8282-345708291138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E2E9FF1-7ABD-4701-8282-345708291138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E2E9FF1-7ABD-4701-8282-345708291138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E2E9FF1-7ABD-4701-8282-345708291138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A11CCA15-D78B-4FC0-897A-FD66AB84F317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A11CCA15-D78B-4FC0-897A-FD66AB84F317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A11CCA15-D78B-4FC0-897A-FD66AB84F317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A11CCA15-D78B-4FC0-897A-FD66AB84F317}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5BBB529-1417-4AF4-B220-F11E56F195E4}
+	EndGlobalSection
+EndGlobal

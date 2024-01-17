@@ -1,0 +1,17 @@
+D:\Project\Visul studio\.Design\WindowsStyle_Sample\WinStyles\bin\Release\net6.0-windows\WinStyles.deps.json
+D:\Project\Visul studio\.Design\WindowsStyle_Sample\WinStyles\bin\Release\net6.0-windows\WinStyles.dll
+D:\Project\Visul studio\.Design\WindowsStyle_Sample\WinStyles\bin\Release\net6.0-windows\WinStyles.pdb
+D:\Project\Visul studio\.Design\WindowsStyle_Sample\WinStyles\obj\Release\net6.0-windows\Icon.baml
+D:\Project\Visul studio\.Design\WindowsStyle_Sample\WinStyles\obj\Release\net6.0-windows\WindowStyle.g.cs
+D:\Project\Visul studio\.Design\WindowsStyle_Sample\WinStyles\obj\Release\net6.0-windows\WinStyles_MarkupCompile.cache
+D:\Project\Visul studio\.Design\WindowsStyle_Sample\WinStyles\obj\Release\net6.0-windows\WinStyles_MarkupCompile.lref
+D:\Project\Visul studio\.Design\WindowsStyle_Sample\WinStyles\obj\Release\net6.0-windows\WindowStyle.baml
+D:\Project\Visul studio\.Design\WindowsStyle_Sample\WinStyles\obj\Release\net6.0-windows\WinStyles.g.resources
+D:\Project\Visul studio\.Design\WindowsStyle_Sample\WinStyles\obj\Release\net6.0-windows\WinStyles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Visul studio\.Design\WindowsStyle_Sample\WinStyles\obj\Release\net6.0-windows\WinStyles.AssemblyInfoInputs.cache
+D:\Project\Visul studio\.Design\WindowsStyle_Sample\WinStyles\obj\Release\net6.0-windows\WinStyles.AssemblyInfo.cs
+D:\Project\Visul studio\.Design\WindowsStyle_Sample\WinStyles\obj\Release\net6.0-windows\WinStyles.csproj.CoreCompileInputs.cache
+D:\Project\Visul studio\.Design\WindowsStyle_Sample\WinStyles\obj\Release\net6.0-windows\WinStyles.dll
+D:\Project\Visul studio\.Design\WindowsStyle_Sample\WinStyles\obj\Release\net6.0-windows\refint\WinStyles.dll
+D:\Project\Visul studio\.Design\WindowsStyle_Sample\WinStyles\obj\Release\net6.0-windows\WinStyles.pdb
+D:\Project\Visul studio\.Design\WindowsStyle_Sample\WinStyles\obj\Release\net6.0-windows\ref\WinStyles.dll

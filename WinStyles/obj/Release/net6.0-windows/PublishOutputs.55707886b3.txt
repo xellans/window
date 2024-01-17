@@ -1,0 +1,3 @@
+D:\Project\Visul studio\.Design\WindowsStyle_Sample\WinStyles\bin\Release\net6.0-windows\publish\WinStyles.dll
+D:\Project\Visul studio\.Design\WindowsStyle_Sample\WinStyles\bin\Release\net6.0-windows\publish\WinStyles.deps.json
+D:\Project\Visul studio\.Design\WindowsStyle_Sample\WinStyles\bin\Release\net6.0-windows\publish\WinStyles.pdb

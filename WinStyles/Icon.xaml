@@ -1,0 +1,9 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid x:Key="Maximized">
+        <Viewbox Visibility="Collapsed" Width="12" Height="12">
+            <Path Stroke="#000000" StrokeThickness="1"
+Data="M8.77778 8.77778H11V1H3.22222V3.22222M8.77778 8.77778V3.22222H3.22222M8.77778 8.77778V11H1V3.22222H3.22222"></Path>
+        </Viewbox>
+    </Grid>
+</ResourceDictionary>
